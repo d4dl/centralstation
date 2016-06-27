@@ -1,18 +1,12 @@
-## SB Admin v2.0 rewritten in React.js
+## Central Station 0.0.1
 
-[![Join the chat at https://gitter.im/start-react/sb-admin-react](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/start-react/sb-admin-react?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-This project is a port of the famous Free Admin Bootstrap Theme [SB Admin v2.0](http://startbootstrap.com/template-overviews/sb-admin-2/) to React.js Theme based on [Essential React](https://github.com/pheuter/essential-react) using ES6 & Webpack.
-
-Find out more [Free React.js and React Native Themes at StartReact.com](http://www.startreact.com/).
-
-## [Demo](http://start-react.github.io/sb-admin-react/)
+Themed control for retail web sites.
 
 ## Installation
 ####1. Clone this project or Download that ZIP file
 
 ```sh
-$ git clone https://github.com/start-react/sb-admin-react.git
+$ git clone https://github.com/d4dl/centralstation
 ```
 
 ####2.  Make sure you have [npm](https://www.npmjs.org/) installed globally
@@ -39,10 +33,8 @@ $ npm run build
 
 ## Roadmap
 
-- Add sample AJAX calls (using Flux / Reflux) and make the components more modular
-- Add chart examples
-- Lazy loading of pages
-- Load CSS using Webpack
+- Plug other sites into this
+- Add controls that actually do stuff
 
 
 ### Automation tools used
